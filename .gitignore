@@ -1,0 +1,16 @@
+# Python 缓存和本地虚拟环境。
+__pycache__/
+*.py[cod]
+.venv/
+
+# 本地环境配置和工具输出。
+.env
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 前端依赖和构建产物。
+node_modules/
+dist/
+coverage/
